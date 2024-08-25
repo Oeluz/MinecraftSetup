@@ -22,14 +22,13 @@
 
 # Mods used
 Mod Name | URL | Side
--- | --
+-- | -- | --
 Fabric API | https://modrinth.com/mod/fabric-api | Both
 JEI (Just Enough Items) | https://modrinth.com/mod/jei | Both
 Xaero's Minimap | https://modrinth.com/mod/xaeros-minimap/ | Both
 Xaero's World Map | https://modrinth.com/mod/xaeros-world-map | Both
 AppleSkin | https://modrinth.com/mod/appleskin/ | Both
 Jade | https://modrinth.com/mod/jade | Both
-
 Physics Mod | https://minecraftphysicsmod.com/ | Client
 Sodium | https://modrinth.com/mod/sodium/versions | Client
 Iris | https://modrinth.com/mod/iris | Client
