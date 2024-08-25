@@ -33,3 +33,5 @@ Physics Mod | https://minecraftphysicsmod.com/ | Client
 Sodium | https://modrinth.com/mod/sodium/versions | Client
 Iris | https://modrinth.com/mod/iris | Client
 Indium | https://modrinth.com/mod/indium | Client
+Universal Graves | https://modrinth.com/mod/universal-graves | Server
+Friends & Foes | https://modrinth.com/mod/friends-and-foes | Both
