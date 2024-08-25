@@ -1,3 +1,6 @@
+# Install the whole repo as a zip file, this can be done via click on "Code" in top right corner 
+# Extract the zip file
+
 # Open `fabric-installer-1.0.1.jar` (or `fabric-installer-1.0.1.exe` if you don't have java installed)
 - Pick the client tab
 - Pick `1.21.1` MC version
@@ -7,18 +10,27 @@
 
 # Once you finish the steps above
 - Navigate to `C:\Users\<yourUsername>\AppData\Roaming\.minecraft`
-- Drop all jar files from the `mods` folder into the mods folder in `.minecraft` directory
+- Drag and drop all jar files from the `client mods` folder into the `mods` folder in your `.minecraft` directory
 
 # Time to test
 - **Open your launcher to ensure it has the fabric launcher jar as the startup option**
 - **Test if your fabric launcher and mods are working by logging into the Minecraft Server and observe any of the mods**
 
+# SPECIAL NOTES
+- There are some mods that cannot be uploaded to GitHub due to the limit of 100 MB. Go to the corresponding mod's link to install to install locally (DOUBLE CHECK ON THE VERSION!)
+  - Physics Mod
+
 # Mods used
-Mod Name | URL
+Mod Name | URL | Side
 -- | --
-Fabric API | https://modrinth.com/mod/fabric-api
-JEI (Just Enough Items) | https://modrinth.com/mod/jei
-Xaero's Minimap | https://modrinth.com/mod/xaeros-minimap/
-Xaero's World Map | https://modrinth.com/mod/xaeros-world-map
-AppleSkin | https://modrinth.com/mod/appleskin/
-Jade | https://modrinth.com/mod/jade
+Fabric API | https://modrinth.com/mod/fabric-api | Both
+JEI (Just Enough Items) | https://modrinth.com/mod/jei | Both
+Xaero's Minimap | https://modrinth.com/mod/xaeros-minimap/ | Both
+Xaero's World Map | https://modrinth.com/mod/xaeros-world-map | Both
+AppleSkin | https://modrinth.com/mod/appleskin/ | Both
+Jade | https://modrinth.com/mod/jade | Both
+
+Physics Mod | https://minecraftphysicsmod.com/ | Client
+Sodium | https://modrinth.com/mod/sodium/versions | Client
+Iris | https://modrinth.com/mod/iris | Client
+Indium | https://modrinth.com/mod/indium | Client
