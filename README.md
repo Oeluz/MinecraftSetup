@@ -35,3 +35,5 @@ Iris | https://modrinth.com/mod/iris | Client
 Indium | https://modrinth.com/mod/indium | Client
 Universal Graves | https://modrinth.com/mod/universal-graves | Server
 Friends & Foes | https://modrinth.com/mod/friends-and-foes | Both
+Collective | https://modrinth.com/mod/collective | Server (as of now)
+Tree Harvester | https://modrinth.com/mod/tree-harvester | Server
