@@ -37,3 +37,10 @@ Universal Graves | https://modrinth.com/mod/universal-graves | Server
 Friends & Foes | https://modrinth.com/mod/friends-and-foes | Both
 Collective | https://modrinth.com/mod/collective | Server (as of now)
 Tree Harvester | https://modrinth.com/mod/tree-harvester | Server
+Lithium | https://modrinth.com/mod/lithium | Both
+Traveler's Backpack | https://modrinth.com/mod/travelersbackpack | Both???????
+Mouse Tweaks | https://modrinth.com/mod/mouse-tweaks | Client
+More Mobs | https://modrinth.com/datapack/more-mobs | Server (DP)
+Superb Steeds | https://modrinth.com/mod/superb-steeds/gallery | Both
+F&F Flowery Mooblooms | https://modrinth.com/mod/friends-and-foes-flowery-mooblooms-fabric | Both
+
