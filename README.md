@@ -35,7 +35,7 @@ Iris | https://modrinth.com/mod/iris | Client
 Indium | https://modrinth.com/mod/indium | Client
 Universal Graves | https://modrinth.com/mod/universal-graves | Server
 Friends & Foes | https://modrinth.com/mod/friends-and-foes | Both
-Collective | https://modrinth.com/mod/collective | Server (as of now)
+Collective | https://modrinth.com/mod/collective | Both
 Tree Harvester | https://modrinth.com/mod/tree-harvester | Server
 Lithium | https://modrinth.com/mod/lithium | Both
 Traveler's Backpack | https://modrinth.com/mod/travelersbackpack | Both???????
@@ -43,4 +43,7 @@ Mouse Tweaks | https://modrinth.com/mod/mouse-tweaks | Client
 More Mobs | https://modrinth.com/datapack/more-mobs | Server (DP)
 Superb Steeds | https://modrinth.com/mod/superb-steeds/gallery | Both
 F&F Flowery Mooblooms | https://modrinth.com/mod/friends-and-foes-flowery-mooblooms-fabric | Both
-
+Recast | https://modrinth.com/mod/recast | Server
+Anvil Restoration | https://modrinth.com/mod/anvil-restoration | Server
+Scaffolding Drops Nearby | https://modrinth.com/mod/scaffolding-drops-nearby | Server
+Replanting Crops | https://modrinth.com/mod/replanting-crops | Server
