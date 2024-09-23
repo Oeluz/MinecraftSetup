@@ -47,3 +47,12 @@ Recast | https://modrinth.com/mod/recast | Server
 Anvil Restoration | https://modrinth.com/mod/anvil-restoration | Server
 Scaffolding Drops Nearby | https://modrinth.com/mod/scaffolding-drops-nearby | Server
 Replanting Crops | https://modrinth.com/mod/replanting-crops | Server
+Forge Config API Port | https://modrinth.com/mod/forge-config-api-port | Both
+CoroUtil | https://modrinth.com/mod/coroutil | Both
+What Are They Up To | https://modrinth.com/mod/what-are-they-up-to | Both 
+Carry On | https://modrinth.com/mod/carry-on | Both
+Clump | https://modrinth.com/mod/clumps | Server 
+Creeper Overhaul | https://modrinth.com/mod/creeper-overhaul | Both 
+Geckolib | https://modrinth.com/mod/geckolib | Both
+Resourceful Config | https://modrinth.com/mod/resourceful-config | Both
+Resourceful Lib | https://modrinth.com/mod/resourceful-lib | Both
